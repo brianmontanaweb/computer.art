@@ -50,6 +50,6 @@ If you are being harassed by a member of the computer.art community, notice that
 
 This policy has borrowed from [XOXO Code of Conduct](https://github.com/xoxo/conduct/) and [Plone Code of Conduct](https://plone.org/foundation/materials/foundation-resolutions/code-of-conduct).
 
-Thanks to XOXO, and PyLadies.
+Thanks to XOXO, and Chicago PyLadies.
 
 This policy is licensed under a [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) license. We encourage other events to adopt (and enforce) similar policies by using and remixing ours.
