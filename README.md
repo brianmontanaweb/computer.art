@@ -32,9 +32,9 @@ Harassment includes:
 computer.art prioritizes marginalized people’s safety over privileged people’s comfort. computer.art reserves the right not to act on complaints regarding:
 
 - ‘Reverse’ -isms, including ‘reverse racism,’ ‘reverse sexism,’ and ‘cisphobia’
-- Reasonable communication of boundaries, such as “leave me alone,” “go away,” or “I’m not discussing this with you.”
-- Communicating in a ‘tone’ you don’t find congenial
-- Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions
+- Others' reasonable communication of boundaries, such as “leave me alone,” “go away,” or “I’m not discussing this with you.”
+- Communications conducted in a ‘tone’ you don’t find congenial
+- Being criticized for racist, sexist, cissexist, or otherwise oppressive behavior or assumptions
 
 ## Consequences
 
